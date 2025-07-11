@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>login open source</name>
+   <name>login data</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fb029716-53bd-48b0-b8e6-f8ef81dd83dd</testCaseGuid>
+   <testCaseGuid>9bfe9879-c5ef-4364-9b16-7574836b27d1</testCaseGuid>
 </TestCaseEntity>
